@@ -1,0 +1,61 @@
+
+
+
+/* Mock 3 Styles*/
+
+.two-columns {
+    justify-content: center;
+
+}
+.column-one-inner {
+    border-style: solid;
+    width: 200px;
+}
+
+.column-two-inner {
+    border-style: solid;
+    width: 200px;
+}
+
+.content {
+    margin-left: 5px;
+}
+.button-one {
+    text-align: center;
+}
+
+button {
+    width: 200px;
+}
+
+/* Mock 4 Styles */
+
+input {
+    border: 1px solid black;
+    size: "50";
+}
+
+.one-line {
+    padding: 10 px;
+}
+
+/* Mock 5 Styles  */
+
+.table {
+    margin: 30px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    height: 20px;
+}
+
+.table-header {
+    background-color: gray;
+}
+
+.table-odd-rows {
+    background-color: lightgray;
+}
